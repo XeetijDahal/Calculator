@@ -1,4 +1,5 @@
 ⚡  Calculator
+
 A clean and responsive web calculator built with HTML, CSS, and JavaScript. No libraries. No frameworks. Just pure web magic.
 
 🔗 Live Preview: xeetijdahal-calculator.netlify.app
