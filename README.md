@@ -81,3 +81,4 @@ It's built with accessibility and responsiveness in mind, making it fully usable
 
 - Deployed effortlessly via Netlify
 
+---
