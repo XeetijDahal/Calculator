@@ -1,70 +1,83 @@
-⚡  Calculator
+
+---
+
+## ⚡  Calculator
 
 A clean and responsive web calculator built with HTML, CSS, and JavaScript. No libraries. No frameworks. Just pure web magic.
 
-🔗 Live Preview: xeetijdahal-calculator.netlify.app
+---
 
-🧾 About the Project
+## 🧾 About the Project
 This project is a simple yet powerful calculator capable of performing basic arithmetic operations such as:
 
-➕ Addition
+* ➕ Addition
 
-➖ Subtraction
+* ➖ Subtraction
 
-✖️ Multiplication
+* ✖️ Multiplication
 
-➗ Division
+* ➗ Division
 
 It includes functional buttons for:
 
-Clear (C) – to reset the display
+- Clear (C) – to reset the display
 
-Delete (DEL) – to remove the last digit
+- Delete (DEL) – to remove the last digit
 
-Decimal input
+- Decimal input
 
-Equal (=) – to evaluate the full expression
+- Equal (=) – to evaluate the full expression
 
 It's built with accessibility and responsiveness in mind, making it fully usable on mobile and desktop screens.
 
-🛠️ Built With
-Language	Purpose
-HTML5	Markup for calculator layout
-CSS3	Styling and responsive design
-JavaScript (Vanilla)	Logic for user input and calculations
+---
 
-Features include:
+## 🛠️ Built With
 
-Event-driven input handling
+- Language	Purpose
+- HTML5	Markup for calculator layout
+- CSS3	Styling and responsive design
+- JavaScript (Vanilla)	Logic for user input and calculations
 
-Real-time display updates
+---
 
-Error handling with try/catch
+## Features include:
 
-Polished UI with custom styles for buttons and display
+- Event-driven input handling
 
-📚 What I Learned
-While developing this project, I gained hands-on experience with:
+- Real-time display updates
 
-Building interactive UIs with plain JavaScript
+- Error handling with try/catch
 
-Managing real-time user inputs and DOM manipulation
+- Polished UI with custom styles for buttons and display
 
-Implementing basic calculator logic using eval() safely
+---
 
-Styling with CSS Grid and Flexbox
+## 📚 What I Learned
 
-Designing responsive layouts
+- While developing this project, I gained hands-on experience with:
 
-Debugging and organizing modular front-end code
+- Building interactive UIs with plain JavaScript
 
-This was a great way to reinforce core web development skills and understand UI/UX basics.
+- Managing real-time user inputs and DOM manipulation
 
+- Implementing basic calculator logic using eval() safely
 
-🙌 Acknowledgments
-Inspired by classic calculator designs
+- Styling with CSS Grid and Flexbox
 
-Built from scratch to practice and showcase front-end skills
+- Designing responsive layouts
 
-Deployed effortlessly via Netlify
+- Debugging and organizing modular front-end code
+
+- This was a great way to reinforce core web development skills and understand UI/UX basics.
+
+---
+
+## 🙌 Acknowledgments
+
+- Inspired by classic calculator designs
+
+- Built from scratch to practice and showcase front-end skills
+
+- Deployed effortlessly via Netlify
 
